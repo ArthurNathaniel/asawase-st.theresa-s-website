@@ -18,7 +18,7 @@
                     <a class="nav-link " aria-current="page" href="">Events</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " aria-current="page" href="">Photo Galllery</a>
+                    <a class="nav-link " aria-current="page" href="">Photo Gallery</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " aria-current="page" href="contact.php">Contact Us</a>
