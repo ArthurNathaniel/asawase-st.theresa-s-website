@@ -89,7 +89,7 @@ body {
 }
 .events{
     width: 100%;
-    background-color: red;
+    background-color:tomato;
     position: absolute;
     border: 2px solid;
 }
@@ -178,7 +178,7 @@ body {
 .event-box-img{
     width: 100%;
     height: 300px;
-    background-color: red;
+    background-color:tomato;
 }
 .event-box-details{
     padding: 20px;

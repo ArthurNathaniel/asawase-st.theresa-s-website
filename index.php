@@ -30,7 +30,9 @@
                             <h1>Welcome to Asawase St. Theresa's Catholic Church</h1>
                         </div>
                         <div class="swiper-slide">
-                            <h1>Roman Deɛ Ɛnoaa ne Asawase</h1>
+                            <h1>Roman Deɛ Ɛnoaa ne Asawase,
+                                Wopɛ Adepa bra Asawase
+                            </h1>
                         </div>
                     </div>
                 </div>
