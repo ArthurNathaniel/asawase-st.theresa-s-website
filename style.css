@@ -31,7 +31,7 @@ body {
 
 .donate button {
     background-color: #cbcd84;
-    padding: 10px 45px;
+    padding: 10px 25px;
     border: none;
     border-radius: 5px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
@@ -89,9 +89,8 @@ body {
 }
 .events{
     width: 100%;
-    background-color:tomato;
+    background-color:#cbcd84;
     position: absolute;
-    border: 2px solid;
 }
 
 .event-title {
@@ -165,7 +164,7 @@ body {
 
 .events-grid{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 .events-box{
     width: 95%;
@@ -177,11 +176,11 @@ body {
 
 .event-box-img{
     width: 100%;
-    height: 300px;
+    height: 200px;
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    background-color:tomato;
+    background-color:#cbcd84;
 }
 .event-box-details{
     padding: 20px;
@@ -255,10 +254,61 @@ body {
     padding: 20px;
 }
 .services-img{
-    background-color:tomato;
+    background-color:#cbcd84;
     width: 100%;
     height: 250px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+
+.footer-grid{
+    margin-top: 70px;
+    background-image: url(./images/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 0 5%;
+    padding-block: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border-top: 8px dashed;
+}
+.ft-image{
+    width: 90%;
+}
+.footer-image{
+    width: 150px;
+    height: 150px;
+    /* border-radius: 50%; */
+    background-image: url(./images/logo.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+.ft-image h5{
+    margin-top: 20px;
+    color: #cbcd84;
+}
+.ft-image span{
+    color: #fff;
+}
+
+.footer-links{
+    width: 95%;
+}
+
+.footer-links a{
+    text-decoration: none;
+    color: #fff;
+}
+.footer-links a:hover{
+    font-weight: 900;
+}
+.footer-links h1{
+    color: #cbcd84;
 }

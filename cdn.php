@@ -1,3 +1,11 @@
+<!-- Meta Data  -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Welcome to St. Theresa Parish, a Catholic church located in Asawase, Kumasi, Ghana. Stay connected with our vibrant community and find information about our worship services (mass), events, and ministries. Join us as we grow in faith, love, and service.">
+<meta name="keywords" content="St. Theresa Parish, Asawase, Kumasi, Catholic Church, Ghana, worship, services, events, ministries, faith, love, service, holy rosary, sanctus, assumption, Mary">
+<meta name="author" content="St. Theresa Parish,">
+
+<!-- CDN -->
+
 <!--Font Awesome-->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <!-- Bootstrap  -->
