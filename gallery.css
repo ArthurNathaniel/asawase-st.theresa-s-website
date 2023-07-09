@@ -1,0 +1,19 @@
+.gallery-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0 5%;
+    margin-top: 80px;
+}
+.gallery-box{
+    margin-bottom: 50px;
+    width: 95%;
+    height: 350px;
+}
+.gallery{
+    background-color: bisque;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}

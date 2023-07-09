@@ -35,12 +35,13 @@
     <!-- Initialize Swiper -->
     <script>
         var swiper = new Swiper(".mySwiper", {
+            speed:2500,
             loop: true,
             spaceBetween: 30,
             centeredSlides: true,
             autoplay: {
-                delay: 2500,
-                disableOnInteraction: false,
+                delay: 25000,
+              
             },
             pagination: {
                 el: ".swiper-pagination",

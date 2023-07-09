@@ -22,3 +22,7 @@
 
 <!--Favicon-->
 <link rel="icon" href="./images/logo.jpg" type="image/png">
+<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.8/index.global.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.8/index.global.min.js'></script>
+
+

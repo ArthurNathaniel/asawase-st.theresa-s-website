@@ -32,7 +32,7 @@
                     <a class="nav-link " aria-current="page" href="events.php">Events</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " aria-current="page" href="">Gallery</a>
+                    <a class="nav-link " aria-current="page" href="gallery.php">Gallery</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " aria-current="page" href="contact-us.php">Contact Us</a>
@@ -40,7 +40,7 @@
             </ul>
             <div class="donate">
                 <button>
-                    <a href=""><i class="fa fa-donate"></i> Doante Now</a>
+                    <a href="https://paystack.com/pay/4nh6jt7pcp"><i class="fa fa-donate"></i> Doante Now</a>
                 </button>
             </div>
 

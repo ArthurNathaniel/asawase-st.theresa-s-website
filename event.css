@@ -1,37 +1,19 @@
-.form{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    align-self: center;
-}
-#eventForm{
-    margin: 0 10%;
-    width: 80%;
-    margin-top: 70px;
-    padding: 100px;
-    background-color: bisque;
-}
-#eventForm input{
+
+#calendar {
     width: 100%;
-    height: 45px;
-    margin-bottom: 30px;
+    height: 600px;
+    margin-block: 50px;
 }
-#eventForm button{
-    width: 100%;
-    height: 55px;
+
+.fc-day-grid-event {
+    background-color: black;
+    color: #ffffff;
     border: none;
-    background-color: green;
-    color: aliceblue;
-    font-weight: 900;
 }
 
-#calendar{
-    
-    padding: 0 5%;
-    margin-top: 70px;
+.fc-event-title {
+    font-weight: bold;
+    text-decoration: none;
 }
 
-#eventForm{
-    padding: 0 5%;
-}
+ 
