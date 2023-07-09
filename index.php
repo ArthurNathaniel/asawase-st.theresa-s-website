@@ -13,11 +13,11 @@
     <?php include 'navbar.php'; ?>
     <section>
         <div class="row hero">
-            <div class="col-md-7">
+            <div class="col-md-7 hero-banner">
                 <div class="swiper mySwiper">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide hero-img" style="background-color: #cbcd84;">Image one</div>
-                        <div class="swiper-slide hero-img" style="background-color: #f4f8f4;">Image Two</div>
+                        <div class="swiper-slide hero-img" style="background-image:url(./images/nn.jpg); ">I</div>
+                        <div class="swiper-slide hero-img" style="background-image:url(./images/nn.jpg);"></div>
                     </div>
                 </div>
 
@@ -31,7 +31,7 @@
                         </div>
                         <div class="swiper-slide">
                             <h1>Roman Deɛ Ɛnoaa ne Asawase,
-                                Wopɛ Adepa bra Asawase
+                                Wopɛ Ade pa bra Asawase
                             </h1>
                         </div>
                     </div>
@@ -186,8 +186,8 @@
         </div>
     </section>
 
-   <?php include 'contact.php'; ?>
-   <?php include 'footer.php'; ?>
+    <?php include 'contact.php'; ?>
+    <?php include 'footer.php'; ?>
     <!-- Swiper JS -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
 
