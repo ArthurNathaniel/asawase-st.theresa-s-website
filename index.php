@@ -26,17 +26,17 @@
             <div class="col-md-5 second">
                 <div class="swiper mySwiper hero-text">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide">
+                        <div class="swiper-slide ss">
                             <h1>Welcome to Asawase St. Theresa Catholic Church</h1>
                         </div>
-                        <div class="swiper-slide">
+                        <div class="swiper-slide ss">
                             <h1>Roman Deɛ Ɛnoaa ne Asawase,
                                 Wopɛ Ade pa bra Asawase
                             </h1>
                         </div>
                     </div>
                 </div>
-                <div class="swiper mySwiper">
+                <div class="swiper mySwiper news">
 
                     <h4 class="event-title">Upcoming Events</h4>
 

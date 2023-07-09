@@ -17,5 +17,8 @@
 
 <!--Lightbox CDN-->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
+<!--Full Calendar-->
+<link href='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.2/fullcalendar.min.css' rel='stylesheet' />
+
 <!--Favicon-->
 <link rel="icon" href="./images/logo.jpg" type="image/png">

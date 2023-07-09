@@ -27,6 +27,11 @@
 }
 
 #calendar{
+    
     padding: 0 5%;
     margin-top: 70px;
+}
+
+#eventForm{
+    padding: 0 5%;
 }

@@ -19,11 +19,12 @@
                         About Us<i class="fas fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="about-us.php">Our Story</a></li>
+                        <li><a class="dropdown-item" href="our-story.php">Our Story</a></li>
                         <li><a class="dropdown-item" href="welcome-message.php">Welcome Message</a></li>
-                        <li><a class="dropdown-item" href="priest.php">Priests</a></li>
-                        <li><a class="dropdown-item" href="spc.php">SPC Executives</a></li>
-                        <li><a class="dropdown-item" href="pyc.php">PYC Executives</a></li>
+                        <li><a class="dropdown-item" href="priest.php">Our Priests</a></li>
+                        <li><a class="dropdown-item" href="our-catechist.php">Our Catechist</a></li>
+                        <li><a class="dropdown-item" href="spc.php">Our SPC Executives</a></li>
+                        <li><a class="dropdown-item" href="pyc.php">Our PYC Executives</a></li>
 
                     </ul>
                 </li>
@@ -34,7 +35,7 @@
                     <a class="nav-link " aria-current="page" href="">Gallery</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " aria-current="page" href="">Contact Us</a>
+                    <a class="nav-link " aria-current="page" href="contact-us.php">Contact Us</a>
                 </li>
             </ul>
             <div class="donate">

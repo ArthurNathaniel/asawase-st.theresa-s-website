@@ -39,5 +39,18 @@
                 Asawase - Kumasi
             </a>
         </div>
+
     </div>
+
 </footer>
+
+<div class="copyright">
+    <p>
+        <span>
+            All Copyright &copy; Reserved
+            <script>
+                document.write(new Date().getFullYear())
+            </script>
+        </span> | Asawase St. Theresa Parish
+    </p>
+</div>
