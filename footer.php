@@ -13,16 +13,16 @@
 
         <div class="footer-links">
             <h1>QUICK LINKS</h1>
-            <a href="">Home</a>
+            <a href="index.php">Home</a>
             <br>
             <br>
-            <a href="">About Us</a>
+            <a href="our-story.php">Our Story</a>
             <br>
             <br>
-            <a href="">Events</a>
+            <a href="events.php">Events</a>
             <br>
             <br>
-            <a href="">Photo Gallery</a>
+            <a href="gallery.php">Photo Gallery</a>
         </div>
         <div class="footer-links">
             <h1>CONTACT US</h1>

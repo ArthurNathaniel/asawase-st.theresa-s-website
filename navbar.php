@@ -40,7 +40,7 @@
             </ul>
             <div class="donate">
                 <button>
-                    <a href="https://paystack.com/pay/4nh6jt7pcp"><i class="fa fa-donate"></i> Doante Now</a>
+                    <a href="https://paystack.com/pay/4nh6jt7pcp"><i class="fa fa-donate"></i> Donate Now</a>
                 </button>
             </div>
 

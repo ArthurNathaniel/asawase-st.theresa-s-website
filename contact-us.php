@@ -18,7 +18,7 @@
             <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide" style="height: 50vh; background-color:#ccc;">
-                        <h1>Welcome to Asawase St. Theresa Catholic Church</h1>
+                        <h1>Image</h1>
                     </div>
 
                 </div>
@@ -35,13 +35,13 @@
     <!-- Initialize Swiper -->
     <script>
         var swiper = new Swiper(".mySwiper", {
-            speed:2500,
+            speed: 2500,
             loop: true,
             spaceBetween: 30,
             centeredSlides: true,
             autoplay: {
                 delay: 25000,
-              
+
             },
             pagination: {
                 el: ".swiper-pagination",

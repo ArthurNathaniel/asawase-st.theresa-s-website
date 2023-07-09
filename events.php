@@ -18,7 +18,7 @@
             <div class="swiper mySwiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide" style="height: 50vh; background-color:#ccc;">
-                        <h1>Welcome to Asawase St. Theresa Catholic Church</h1>
+                        <h1>Image</h1>
                     </div>
                 </div>
             </div>
