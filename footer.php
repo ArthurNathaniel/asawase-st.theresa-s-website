@@ -32,7 +32,7 @@
             <a href=""><i class="fa fa-phone"></i> +233 111 111 111</a>
             <br>
             <br>
-            <a href=""><i class="fa fa-envelope"></i> info@st.theresasparish.com</a>
+            <a href="mailto:info@sttheresaasawase.com"><i class="fa fa-envelope"></i> info@sttheresaasawase.com</a>
             <br>
             <br>
             <a href="https://goo.gl/maps/kfUGcAaMdDSiSkiw7"> <i class="fa fa-map-marker"></i>
@@ -54,4 +54,3 @@
         </span> | Asawase St. Theresa Parish
     </p>
 </div>
-

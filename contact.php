@@ -10,7 +10,7 @@
              <div class="box">
                  <h1><i class="fa fa-envelope"></i></h1>
                  <h3>Email Address:</h3>
-                 <span> <a href="mailto:info@st.theresasparish.com">info@st.theresasparish.com</a>
+                 <span> <a href="mailto:info@sttheresaasawase.com">info@sttheresaasawase.com</a>
                  </span>
              </div>
              <div class="box">
